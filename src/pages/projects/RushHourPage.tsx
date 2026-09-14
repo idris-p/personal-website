@@ -26,7 +26,7 @@ export default function RushHourPage() {
           <div className="infobox__section-title">Information</div>
           <dl className="infobox__facts">
             <div><dt>Year</dt><dd>July 2026</dd></div>
-            <div><dt>Technologies</dt><dd>TypeScript, HTML Canvas, React</dd></div>
+            <div><dt>Technologies</dt><dd>TypeScript, HTML Canvas</dd></div>
           </dl>
           <div className="project-links">
             <a href="https://rush-hour-speedrun.vercel.app" target="_blank" rel="noreferrer">Live site</a>

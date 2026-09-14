@@ -184,7 +184,7 @@ export const projects: Project[] = [
     name: "Rush Hour",
     thumbnail: "/images/projects/rush_hour.png",
     description: "A browser-based speedrunning game based on traversing the London Underground network.",
-    technologies: ["TypeScript", "HTML Canvas", "React"],
+    technologies: ["TypeScript", "HTML Canvas"],
     year: "July 2026",
     hasWikiPage: true,
   },
